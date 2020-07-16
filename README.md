@@ -2,9 +2,9 @@
 <div style="text-align: center;">
         <img src="image/Inline-review.png" alt="">
     </div>
-# <p><strong>Overview</strong> </p>
+# Overview
     <hr>
-
+    
 This is a complete Application, that covers everything that you need in WhatsApp chat, this application build on ionic 5 and firebase leatest, the same functionality of whatsApp, messenger version. This is a clean code, more readable and beautiful, each lines of code commented on explain how it work, the code even a bigenners will understand.This Application tested and trusted on Android, IOS one codebase deployed to Android, IOS, web, PWA and also this code is written on ionic 5 framework and back-end is firebase leatest version, the apps style with SASS, which is known as CSS with power of each component has dedicated SASS file for styling make it very beautiful looking UI/UX.
 
    <div class="image01">
