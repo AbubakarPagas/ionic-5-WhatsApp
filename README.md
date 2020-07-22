@@ -1,4 +1,4 @@
-# ionic-5-WhatsApp
+# ionic-5-WhatsApp clone
 <div style="text-align: center;">
         <img src="image/Inline-review.png" alt="">
 </div>
